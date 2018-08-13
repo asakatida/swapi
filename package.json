@@ -21,7 +21,7 @@
     "@vue/cli": "^3.0.0-rc.3",
     "yarn": "^1.7.0",
     "@types/chai": "^4.1.0",
-    "@types/mocha": "^2.2.46",
+    "@types/mocha": "^5.2.5",
     "@vue/cli-plugin-e2e-cypress": "^3.0.0-beta.15",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
     "@vue/cli-plugin-pwa": "^3.0.0-beta.15",
