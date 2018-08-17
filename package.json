@@ -24,7 +24,7 @@
     "@types/mocha": "^5.2.5",
     "@vue/cli-plugin-e2e-cypress": "^3.0.1",
     "@vue/cli-plugin-eslint": "^3.0.0",
-    "@vue/cli-plugin-pwa": "^3.0.0",
+    "@vue/cli-plugin-pwa": "^3.0.1",
     "@vue/cli-plugin-typescript": "^3.0.1",
     "@vue/cli-plugin-unit-mocha": "^3.0.1",
     "@vue/cli-service": "^3.0.1",
