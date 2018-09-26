@@ -931,9 +931,9 @@
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/@types/zen-observable/-/zen-observable-0.8.0.tgz#8b63ab7f1aa5321248aad5ac890a485656dcea4d"
 
-"@vue/cli-overlay@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@vue/cli-overlay/-/cli-overlay-3.0.2.tgz#18411420798135295fe80523579b22e4c6bb3d3b"
+"@vue/cli-overlay@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@vue/cli-overlay/-/cli-overlay-3.0.4.tgz#6d5640021906d35e5572c186c3f35b4e7a93c247"
 
 "@vue/cli-plugin-e2e-cypress@^3.0.4":
   version "3.0.4"
@@ -982,13 +982,13 @@
     mocha "^5.2.0"
     mocha-webpack "^2.0.0-beta.0"
 
-"@vue/cli-service@^3.0.3":
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/@vue/cli-service/-/cli-service-3.0.3.tgz#dd91f2ee40922001559601d458209e4398887337"
+"@vue/cli-service@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@vue/cli-service/-/cli-service-3.0.4.tgz#0084569470a742a3c9adf32e8815c4760eaafd96"
   dependencies:
     "@intervolga/optimize-cssnano-plugin" "^1.0.5"
-    "@vue/cli-overlay" "^3.0.2"
-    "@vue/cli-shared-utils" "^3.0.2"
+    "@vue/cli-overlay" "^3.0.4"
+    "@vue/cli-shared-utils" "^3.0.4"
     "@vue/preload-webpack-plugin" "^1.1.0"
     "@vue/web-component-wrapper" "^1.2.0"
     acorn "^5.7.1"
