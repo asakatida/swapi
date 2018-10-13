@@ -1313,10 +1313,10 @@
     eslint-plugin-promise "^3.7.0"
     eslint-plugin-standard "^3.1.0"
 
-"@vue/eslint-config-typescript@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@vue/eslint-config-typescript/-/eslint-config-typescript-3.0.4.tgz#574ad86675273bfcc846ce276a6200d3a071595e"
-  integrity sha512-9c+rE018bKyB3F9oy1iqwTGjBc0csr3GKhECEldNe2di8vRcE841eoYYLkPYkY/gSNmWiXimHiD/PErlE/K4Jg==
+"@vue/eslint-config-typescript@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@vue/eslint-config-typescript/-/eslint-config-typescript-3.0.5.tgz#80590b39b483b82d249a199adc06a450b0df7896"
+  integrity sha512-V9zCdeWjH5/frsoMIJUlswiecRkNP/Yjo7OkVTOzME78QDg4fWruHH6PCkwWkMN/dEQlhA1wWEWItqNT4iZcjg==
   dependencies:
     eslint-plugin-typescript "^0.12.0"
     typescript-eslint-parser "^18.0.0"
