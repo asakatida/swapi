@@ -1066,10 +1066,10 @@
   resolved "https://registry.yarnpkg.com/@types/zen-observable/-/zen-observable-0.8.0.tgz#8b63ab7f1aa5321248aad5ac890a485656dcea4d"
   integrity sha512-te5lMAWii1uEJ4FwLjzdlbw3+n0FZNOvFXHxQDKeT0dilh7HOzdMzV2TrJVUzq8ep7J4Na8OUYPRLSQkJHAlrg==
 
-"@vue/cli-overlay@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@vue/cli-overlay/-/cli-overlay-3.0.4.tgz#6d5640021906d35e5572c186c3f35b4e7a93c247"
-  integrity sha512-v80CTa8r2GQswsw89AUVqmUVA1HPWk0W3wLKUAOkCJCy/xETtwOnOPQiQ1DMsToR1nkcnM+r6nDYfwTaOeeQrg==
+"@vue/cli-overlay@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@vue/cli-overlay/-/cli-overlay-3.0.5.tgz#403bd1b4f58076ca8f85a65cf30e06cda3ce6b39"
+  integrity sha512-OYwbI+HpEkEJ+eA9WkzlQOE7gjFxiOSAWHU1dIqiD041Sh+uo5OhEFfVARza7rFwHHB1emujFctYyScGx5rArA==
 
 "@vue/cli-plugin-e2e-cypress@^3.0.4":
   version "3.0.4"
@@ -1123,14 +1123,14 @@
     mocha "^5.2.0"
     mocha-webpack "^2.0.0-beta.0"
 
-"@vue/cli-service@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@vue/cli-service/-/cli-service-3.0.4.tgz#0084569470a742a3c9adf32e8815c4760eaafd96"
-  integrity sha512-Z7kA6r0DQOvJUZmgK6yHixk8AxekTK04pU/YkRgzhIzz+giZ6913fQ1RrsDWsUzEjlh0FneKx1eMo0eDq79zvQ==
+"@vue/cli-service@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@vue/cli-service/-/cli-service-3.0.5.tgz#6e9fec10f4eeedd0aa8fd76206fda3089142184c"
+  integrity sha512-rwM0qJ8wWIOSprlulADc2VWw4BINC13lz1m2tA9+i+2PN8/zIT2bxfRqNM3fxUK5bjwQAHQhqrhcpkfOtftSXg==
   dependencies:
     "@intervolga/optimize-cssnano-plugin" "^1.0.5"
-    "@vue/cli-overlay" "^3.0.4"
-    "@vue/cli-shared-utils" "^3.0.4"
+    "@vue/cli-overlay" "^3.0.5"
+    "@vue/cli-shared-utils" "^3.0.5"
     "@vue/preload-webpack-plugin" "^1.1.0"
     "@vue/web-component-wrapper" "^1.2.0"
     acorn "^5.7.1"
