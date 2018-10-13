@@ -1302,10 +1302,10 @@
     source-map "^0.5.6"
     vue-template-es2015-compiler "^1.6.0"
 
-"@vue/eslint-config-standard@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@vue/eslint-config-standard/-/eslint-config-standard-3.0.4.tgz#e7bb75f880d9996bbc5185f6733df95fb44282d2"
-  integrity sha512-r5cC7xkgXbrCwsTuX/5c5VLz9Gl42jDY9vW5HPxXmiJxqZX362poEfn19cddpj+mxnA0EKiGpLl6CdDXin7K2g==
+"@vue/eslint-config-standard@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@vue/eslint-config-standard/-/eslint-config-standard-3.0.5.tgz#7d6ae809eaec90993c6033d9543f48f687b9ebf1"
+  integrity sha512-qijT6OWUgsCO/MTC9Qpw4JtRL01cX0+kIikU0bXQxWXyh8WfNnfvxPouo7tKf7W28qqqiGmwDUnbvTB50SLcTw==
   dependencies:
     eslint-config-standard "^12.0.0-alpha.0"
     eslint-plugin-import "^2.11.0"
