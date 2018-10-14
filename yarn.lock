@@ -1071,13 +1071,13 @@
   resolved "https://registry.yarnpkg.com/@vue/cli-overlay/-/cli-overlay-3.0.5.tgz#403bd1b4f58076ca8f85a65cf30e06cda3ce6b39"
   integrity sha512-OYwbI+HpEkEJ+eA9WkzlQOE7gjFxiOSAWHU1dIqiD041Sh+uo5OhEFfVARza7rFwHHB1emujFctYyScGx5rArA==
 
-"@vue/cli-plugin-e2e-cypress@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-cypress/-/cli-plugin-e2e-cypress-3.0.4.tgz#63660a083dfea4da8281fa1d60d5843ee0dc2add"
-  integrity sha512-Kd2cA0bWDcQaVRkZ5Dw8EQG/UVF4RKREvPHrYu++sV3d/xkWsiKqJRHsypcG4t/em5vacWrAjgcAA++kFHyvUg==
+"@vue/cli-plugin-e2e-cypress@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-cypress/-/cli-plugin-e2e-cypress-3.0.5.tgz#b26d875f6f5e79170059272561b6490488d3bd9f"
+  integrity sha512-Gm0sXs9xacT0Bf0biN1nAi0wyEZnm7Rhd2c3rFVthCTjDAJ00rk54YVC7soUB2UqvFpwLNa9R+NJRYCnUYTALg==
   dependencies:
     "@cypress/webpack-preprocessor" "^3.0.0"
-    "@vue/cli-shared-utils" "^3.0.4"
+    "@vue/cli-shared-utils" "^3.0.5"
     cypress "^3.0.2"
     eslint-plugin-cypress "^2.0.1"
 
