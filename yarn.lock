@@ -472,12 +472,12 @@
     ts-loader "^5.3.1"
     tslint "^5.11.0"
 
-"@vue/cli-plugin-unit-mocha@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-mocha/-/cli-plugin-unit-mocha-3.1.1.tgz#633add67b15e4fc9bbe7bd82688e071223791af2"
-  integrity sha512-zRsx7jPdcw+aeJuqz9YTISFYgJdwXYMjtOViPOZ3rzKySoSwsBxTk2jON2Np+9pLFRoMndReCCWDq3eqe+hrDQ==
+"@vue/cli-plugin-unit-mocha@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-mocha/-/cli-plugin-unit-mocha-3.2.0.tgz#76828eae415ffe949c7fbfcad8e3b7d6a2e991c6"
+  integrity sha512-lT7arkoJFiTBJMIqt5IKFDY0VAoVOf7ZksAlp4WeD3Rwimh/q4tp9yMeNW4x92oxulbQFszkbtoTs5+ARzbN5w==
   dependencies:
-    "@vue/cli-shared-utils" "^3.1.1"
+    "@vue/cli-shared-utils" "^3.2.0"
     jsdom "^13.0.0"
     jsdom-global "^3.0.2"
     mocha "^5.2.0"
