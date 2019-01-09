@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@vue/cli": "^3.3.0",
-    "yarn": "^1.12.3",
+    "yarn": "^1.13.0",
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.5",
     "@vue/cli-plugin-e2e-cypress": "^3.3.0",
