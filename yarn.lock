@@ -482,12 +482,12 @@
     globby "^9.0.0"
     webpack ">=4 < 4.29"
 
-"@vue/cli-plugin-pwa@^3.4.0":
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-pwa/-/cli-plugin-pwa-3.4.0.tgz#299d77dd34b3e80da577f74e45e3f2eb2a5327bc"
-  integrity sha512-2DfgV+G2KoK1DFtbc0Y4X2meDt1/3nw+2P17TCVK24MUo1fjAuptkkS+6b67PDPyLg7sU8Y7/ELVLFKwRGsL+Q==
+"@vue/cli-plugin-pwa@^3.4.1":
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-pwa/-/cli-plugin-pwa-3.4.1.tgz#1fe91e17157d2b8d257a6925cea99f127a3fcb36"
+  integrity sha512-c9URQGwMTvLji4vz39G1b70Pya/UCuBnsmNoWyrNDt0I6qAykuvxI+wAvHLecrg6vZt8o2bVzeb1UG3Bil+wIw==
   dependencies:
-    "@vue/cli-shared-utils" "^3.4.0"
+    "@vue/cli-shared-utils" "^3.4.1"
     webpack ">=4 < 4.29"
     workbox-webpack-plugin "^3.6.3"
 
