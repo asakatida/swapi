@@ -579,26 +579,26 @@
     semver "^5.5.0"
     string.prototype.padstart "^3.0.0"
 
-"@vue/cli-ui-addon-webpack@^3.4.1":
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-webpack/-/cli-ui-addon-webpack-3.4.1.tgz#6c24f19e1ff888ba356e5e2e42537c6e9c69c761"
-  integrity sha512-pNpnu04fHDE+h8I+L6tz16uT3zKEjqZN4rqyWyIHyE6Dcpjk4Ru8/ge0bMfz89AOoYwpuBPh28FSJWtkSxTlAw==
+"@vue/cli-ui-addon-webpack@^3.5.0":
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-webpack/-/cli-ui-addon-webpack-3.5.0.tgz#4899912b1d9b25f2059e1fd7730cfc671ea48e51"
+  integrity sha512-e6NS7NpBev0KhitDvnAgdc2BNRiMsNSDH29sLro/NqYpy1ztO0xpzTK5GmBJolM7LcV2f7MbEZM8lGANEzDrcQ==
 
-"@vue/cli-ui-addon-widgets@^3.4.1":
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-widgets/-/cli-ui-addon-widgets-3.4.1.tgz#babae2927a5eae1051fe160bc5977e5b4fd9d7f5"
-  integrity sha512-E41HRQep+KfOye7LqHl+WiAQmS7noaJUxtVek6IjbWXrzNj4xmZvi7tW7FMj2l3ezZpwUU6mGTSCPz8Ct0EN+A==
+"@vue/cli-ui-addon-widgets@^3.5.0":
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-widgets/-/cli-ui-addon-widgets-3.5.0.tgz#86f1f7fb2b26df207c74ada9fa4639297a81c5d9"
+  integrity sha512-DgfNt5iO7wS1q2hDy1IJ9UeEy9oy1Trgyonr5qP2qy7S89lA4mFdd7Iu8jOK308XMVkvbWIf+YPGnyWy1aYxkw==
 
-"@vue/cli-ui@^3.4.1":
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui/-/cli-ui-3.4.1.tgz#2e5f1ea5e166a16067e4af78e047ec8df679ae84"
-  integrity sha512-VzYw+pWlzK9U3SbNFQiAnaVbtNRtb7bIuHjmistZmnipo5GQYt8i5JwxtjP3ZvqojBBOWmU5Mb9S8JYfE6B0Lg==
+"@vue/cli-ui@^3.5.0":
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui/-/cli-ui-3.5.0.tgz#9d5e0c833534c0f7a6d318931e471323f7b37781"
+  integrity sha512-fa1T65BZLTmtrOuH61CGYMvPjjZmqduAQi9LzWJnBS93KUwWe9lESI1OEVV0BTpo+6MyW2LsNOSecmPpnyTktg==
   dependencies:
     "@akryum/winattr" "^3.0.0"
-    "@vue/cli-shared-utils" "^3.4.1"
+    "@vue/cli-shared-utils" "^3.5.0"
     chalk "^2.4.1"
     clone "^2.1.1"
-    deepmerge "^3.0.0"
+    deepmerge "^3.2.0"
     execa "^1.0.0"
     express-history-api-fallback "^2.2.1"
     fkill "^5.3.0"
@@ -612,7 +612,7 @@
     lowdb "^1.0.0"
     lru-cache "^5.1.1"
     node-ipc "^9.1.1"
-    node-notifier "^5.2.1"
+    node-notifier "^5.4.0"
     parse-git-config "^2.0.2"
     portfinder "^1.0.13"
     prismjs "^1.15.0"
@@ -622,20 +622,20 @@
     vue-cli-plugin-apollo "^0.19.1"
     watch "^1.0.2"
 
-"@vue/cli@^3.4.1":
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/@vue/cli/-/cli-3.4.1.tgz#0f318ba4c91f08f6b121403530d23c0d2aac877b"
-  integrity sha512-aV5jWDgeVFrtafJN4Txkx3X36TcEL1uhBiwejKJDG3mXiqWWZAXis7nXaAqt4aI0N7YmL9IvZNDuTjLVuj4B1g==
+"@vue/cli@^3.5.0":
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli/-/cli-3.5.0.tgz#4c61fe194ed914ae5a4f62a981c297d5b0f20099"
+  integrity sha512-9SEwtti77DrfUFRzb/3d/V8H7kmVc+YM8MVN/Q0qPuApw0FfHRUYOA8inLZASd7av9S2o5JoNFVYh2pyDGTDDw==
   dependencies:
-    "@vue/cli-shared-utils" "^3.4.1"
-    "@vue/cli-ui" "^3.4.1"
-    "@vue/cli-ui-addon-webpack" "^3.4.1"
-    "@vue/cli-ui-addon-widgets" "^3.4.1"
+    "@vue/cli-shared-utils" "^3.5.0"
+    "@vue/cli-ui" "^3.5.0"
+    "@vue/cli-ui-addon-webpack" "^3.5.0"
+    "@vue/cli-ui-addon-widgets" "^3.5.0"
     chalk "^2.4.1"
     cmd-shim "^2.0.2"
     commander "^2.16.0"
     debug "^4.1.0"
-    deepmerge "^3.0.0"
+    deepmerge "^3.2.0"
     download-git-repo "^1.0.2"
     ejs "^2.6.1"
     envinfo "^6.0.1"
@@ -649,9 +649,9 @@
     js-yaml "^3.12.0"
     lodash.clonedeep "^4.5.0"
     minimist "^1.2.0"
-    recast "^0.17.2"
+    recast "^0.17.3"
     request "^2.87.0"
-    request-promise-native "^1.0.5"
+    request-promise-native "^1.0.7"
     resolve "^1.8.1"
     semver "^5.5.0"
     shortid "^2.2.11"
@@ -1413,10 +1413,10 @@ assign-symbols@^1.0.0:
   resolved "https://registry.yarnpkg.com/assign-symbols/-/assign-symbols-1.0.0.tgz#59667f41fadd4f20ccbc2bb96b8d4f7f78ec0367"
   integrity sha1-WWZ/QfrdTyDMvCu5a41Pf3jsA2c=
 
-ast-types@0.12.1:
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/ast-types/-/ast-types-0.12.1.tgz#55d3737a8a68e1ccde131067005ce7ee3dd42b99"
-  integrity sha512-H2izJAyT2xwew4TxShpmxe6f9R5hHgJQy1QloLiUC2yrJMtyraBWNJL7903rpeCY9keNUipORR/zIUC2XcYKng==
+ast-types@0.12.2:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/ast-types/-/ast-types-0.12.2.tgz#341656049ee328ac03fc805c156b49ebab1e4462"
+  integrity sha512-8c83xDLJM/dLDyXNLiR6afRRm4dPKN6KAnKqytRK3DBJul9lA+atxdQkNDkSVPdTqea5HiRq3lnnOIZ0MBpvdg==
 
 async-each@^1.0.0:
   version "1.0.1"
@@ -3114,10 +3114,10 @@ deepmerge@^1.5.2:
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-1.5.2.tgz#10499d868844cdad4fee0842df8c7f6f0c95a753"
   integrity sha512-95k0GDqvBjZavkuvzx/YqVLv/6YYa17fz6ILMSf7neqQITCPbnfEnQvEgMPNjH4kgobe7+WIL0yJEHku+H3qtQ==
 
-deepmerge@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-3.0.0.tgz#ca7903b34bfa1f8c2eab6779280775a411bfc6ba"
-  integrity sha512-a8z8bkgHsAML+uHLqmMS83HHlpy3PvZOOuiTQqaa3wu8ZVg3h0hqHk6aCsGdOnZV2XMM/FRimNGjUh0KCcmHBw==
+deepmerge@^3.0.0, deepmerge@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-3.2.0.tgz#58ef463a57c08d376547f8869fdc5bcee957f44e"
+  integrity sha512-6+LuZGU7QCNUnAJyX8cIrlzoEgggTM6B7mm+znKOX4t5ltluT9KLjN6g61ECMS0LTsLW7yDpNoxhix5FZcrIow==
 
 default-gateway@^4.0.1:
   version "4.2.0"
@@ -6246,7 +6246,7 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@4, lodash@4.17.11, lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
+lodash@4, lodash@4.17.11, lodash@^4.14.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
@@ -6815,12 +6815,13 @@ node-libs-browser@^2.0.0:
     util "^0.10.3"
     vm-browserify "0.0.4"
 
-node-notifier@^5.2.1:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/node-notifier/-/node-notifier-5.3.0.tgz#c77a4a7b84038733d5fb351aafd8a268bfe19a01"
-  integrity sha512-AhENzCSGZnZJgBARsUjnQ7DnZbzyP+HxlVXuD0xqAnvL8q+OqtSX7lGg9e8nHzwXkMMXNdVeqq4E2M3EUAqX6Q==
+node-notifier@^5.4.0:
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/node-notifier/-/node-notifier-5.4.0.tgz#7b455fdce9f7de0c63538297354f3db468426e6a"
+  integrity sha512-SUDEb+o71XR5lXSTyivXd9J7fCloE3SyP4lSgt3lU2oSANiox+SxlNRGPjDKrwU1YN3ix2KN/VGGCg0t01rttQ==
   dependencies:
     growly "^1.3.0"
+    is-wsl "^1.1.0"
     semver "^5.5.0"
     shellwords "^0.1.1"
     which "^1.3.0"
@@ -8091,7 +8092,7 @@ prismjs@^1.15.0:
   optionalDependencies:
     clipboard "^2.0.0"
 
-private@~0.1.5:
+private@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
   integrity sha512-VvivMrbvd2nKkiG38qjULzlc+4Vx4wm/whI9pQD35YrARNnhxeiRktSOhSukRLFNlzg6Br/cJPet5J/u19r/mg==
@@ -8384,14 +8385,14 @@ readdirp@^2.0.0:
     micromatch "^3.1.10"
     readable-stream "^2.0.2"
 
-recast@^0.17.2:
-  version "0.17.2"
-  resolved "https://registry.yarnpkg.com/recast/-/recast-0.17.2.tgz#f18f18cf20bf3fad4522621a7f9c2ada37276814"
-  integrity sha512-YHFvn4rBXl8eIjALjUiOV/AP3xFpyGNGNHDw9mAncAWuIdgnBKjbZQ9+P3VlsKcNaNapRVFlTEX1dvDRlYwyxg==
+recast@^0.17.3:
+  version "0.17.3"
+  resolved "https://registry.yarnpkg.com/recast/-/recast-0.17.3.tgz#f49a9c9a64c59b55f6c93b5a53e3cffd7a13354d"
+  integrity sha512-NwQguXPwHqaVb6M7tsY11+8RDoAKHGRdymPGDxHJrsxOlNADQh0b08uz/MgYp1R1wmHuSBK4A4I5Oq+cE1J40g==
   dependencies:
-    ast-types "0.12.1"
+    ast-types "0.12.2"
     esprima "~4.0.0"
-    private "~0.1.5"
+    private "^0.1.8"
     source-map "~0.6.1"
 
 regenerate@^1.2.1:
@@ -8513,13 +8514,6 @@ request-progress@0.3.1:
   dependencies:
     throttleit "~0.0.2"
 
-request-promise-core@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/request-promise-core/-/request-promise-core-1.1.1.tgz#3eee00b2c5aa83239cfb04c5700da36f81cd08b6"
-  integrity sha1-Pu4AssWqgyOc+wTFcA2jb4HNCLY=
-  dependencies:
-    lodash "^4.13.1"
-
 request-promise-core@1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/request-promise-core/-/request-promise-core-1.1.2.tgz#339f6aababcafdb31c799ff158700336301d3346"
@@ -8527,16 +8521,7 @@ request-promise-core@1.1.2:
   dependencies:
     lodash "^4.17.11"
 
-request-promise-native@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/request-promise-native/-/request-promise-native-1.0.5.tgz#5281770f68e0c9719e5163fd3fab482215f4fda5"
-  integrity sha1-UoF3D2jgyXGeUWP9P6tIIhX0/aU=
-  dependencies:
-    request-promise-core "1.1.1"
-    stealthy-require "^1.1.0"
-    tough-cookie ">=2.3.3"
-
-request-promise-native@^1.0.7:
+request-promise-native@^1.0.5, request-promise-native@^1.0.7:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/request-promise-native/-/request-promise-native-1.0.7.tgz#a49868a624bdea5069f1251d0a836e0d89aa2c59"
   integrity sha512-rIMnbBdgNViL37nZ1b3L/VfPOpSi0TqVDQPAvO6U14lMzOLrt5nilxCQqtDKhZeDiW0/hkCXGoQjhgJd/tCh6w==
@@ -9247,7 +9232,7 @@ statuses@~1.4.0:
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-1.4.0.tgz#bb73d446da2796106efcc1b601a253d6c46bd087"
   integrity sha512-zhSCtt8v2NDrRlPQpCNtw/heZLtfUDqxBM1udqikb/Hbk52LK4nQSwr10u77iopCW5LsyHpuXS0GnEc48mLeew==
 
-stealthy-require@^1.1.0, stealthy-require@^1.1.1:
+stealthy-require@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/stealthy-require/-/stealthy-require-1.1.1.tgz#35b09875b4ff49f26a777e509b3090a3226bf24b"
   integrity sha1-NbCYdbT/SfJqd35QmzCQoyJr8ks=
@@ -9764,7 +9749,7 @@ touch@^3.1.0:
   dependencies:
     nopt "~1.0.10"
 
-tough-cookie@>=2.3.3, tough-cookie@^2.3.3, tough-cookie@^2.5.0:
+tough-cookie@^2.3.3, tough-cookie@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.5.0.tgz#cd9fb2a0aa1d5a12b473bd9fb96fa3dcff65ade2"
   integrity sha512-nlLsUzgm1kfLXSXfRZMc1KLAugd4hqJHDTvc2hDIwS3mZAfMEuMbc03SujMF+GEcpaX/qboeycw6iO8JwVv2+g==
