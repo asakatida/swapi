@@ -11320,11 +11320,12 @@ vue-loader@^15.7.0:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-property-decorator@^8.1.1:
-  version "8.1.1"
-  resolved "https://registry.yarnpkg.com/vue-property-decorator/-/vue-property-decorator-8.1.1.tgz#80dadbe5ffa0e7eb6a0ba0a07036365471a7d5ee"
-  integrity sha512-K+PUT17ZEMWyhrKZnl4Fc9qMyFpMcjVbZJBwx4BpA8BXfaspaTeFdoHuk1aywC/+4G86sxIr/5n4IQUQLecSWw==
+vue-property-decorator@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/vue-property-decorator/-/vue-property-decorator-8.2.0.tgz#abdc7592b32e4be8b8d47a24eba144d51617ac11"
+  integrity sha512-g6k+dKarJlDW2635XKJMnxF4X1UVWHe288Mcxgbbtp9uiC4SaqeL00sXfbh+BOzK7WWZS9bYGI2BW/0vXScZJw==
   dependencies:
+    vue "^2.6.10"
     vue-class-component "^7.0.1"
 
 vue-router@^3.0.6:
